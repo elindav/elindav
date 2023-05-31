@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elina
+- 👀 I’m interested in Computer Science and Physics
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any project that will make us grow 
+- 📫 How to reach me (my email address is elind@duck.com)
