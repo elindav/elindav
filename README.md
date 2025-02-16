@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Elina
 - 💓 I’m interested in White Hat Hacking, Machine Learning and Physics
-- 🌱 I’m currently learning Javascript and Python(Machine Learning basics)
+- 🌱 I’m currently learning Java.
 - 🤗 I’m looking to collaborate on any project that will make us grow 
 - 📫 How to reach me (my email address is elind@duck.com)
